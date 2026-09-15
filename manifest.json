@@ -1,1 +1,9 @@
-﻿{"version":"0.0.0","files":[]}
+{
+    "files":  [
+                  {
+                      "path":  "Studio.exe",
+                      "url":  "https://cdn.jsdelivr.net/gh/JonusNattapong/WarZ-ZeroHuman-Patches@v0.0.1/patches/v0.0.1/Studio.exe",
+                      "sha256":  "3ab19a87fdb20aaa42457e129b70eb4e1bb158f2f26e7cbe9b15e9086df95250"
+                  }
+              ]
+}
