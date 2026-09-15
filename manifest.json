@@ -2,7 +2,7 @@
     "files":  [
                   {
                       "path":  "Studio.exe",
-                      "url":  "https://cdn.jsdelivr.net/gh/JonusNattapong/WarZ-ZeroHuman-Patches@v0.0.2/patches/v0.0.2/Studio.exe.bin",
+                      "url":  "https://cdn.jsdelivr.net/gh/JonusNattapong/WarZ-ZeroHuman-Patches@7fba6a5/patches/v0.0.2/Studio.exe.bin",
                       "sha256":  "3ab19a87fdb20aaa42457e129b70eb4e1bb158f2f26e7cbe9b15e9086df95250"
                   }
               ]
