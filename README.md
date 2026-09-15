@@ -19,3 +19,5 @@ GitHub Release assets should be hash-checked by the launcher before install.
 - Manifest: https://cdn.jsdelivr.net/gh/JonusNattapong/WarZ-ZeroHuman-Patches@v0.0.1/manifest.json
 - File: `Studio.exe`
 - SHA-256: `3ab19a87fdb20aaa42457e129b70eb4e1bb158f2f26e7cbe9b15e9086df95250`
+- CDN artifact workaround: `Studio.exe.bin` is downloaded and written locally as `Studio.exe`.
+- Manifest v0.0.2: https://cdn.jsdelivr.net/gh/JonusNattapong/WarZ-ZeroHuman-Patches@v0.0.2/manifest.json
