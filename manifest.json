@@ -1,44 +1,45 @@
 {
   "version": "1.1.1",
   "generatedAt": "2026-09-19T04:49:15Z",
-  "baseUrl": "https://cdn.jsdelivr.net/gh/JonusNattapong/WarZ-ZeroHuman-Patches@main/patches/v1.1.1/",
+  "baseUrl": "https://cdn.statically.io/gh/JonusNattapong/WarZ-ZeroHuman-Patches@main/patches/v1.1.1/",
   "totalFiles": 6,
   "files": [
     {
       "path": "Data/Menu/FrontEnd.swf",
-      "url": "https://cdn.jsdelivr.net/gh/JonusNattapong/WarZ-ZeroHuman-Patches@main/patches/v1.1.1/Data/Menu/FrontEnd.swf",
+      "url": "https://cdn.statically.io/gh/JonusNattapong/WarZ-ZeroHuman-Patches@main/patches/v1.1.1/Data/Menu/FrontEnd.swf",
       "sha256": "b87e897f7a83d93b33893730ab577a42361bb0180f7f72af3bd99cb79a549cfc",
       "size": 25544815
     },
     {
       "path": "Levels/Caliwood-ZH/LoadingScreen.dds",
-      "url": "https://cdn.jsdelivr.net/gh/JonusNattapong/WarZ-ZeroHuman-Patches@main/patches/v1.1.1/Levels/Caliwood-ZH/LoadingScreen.dds",
+      "url": "https://cdn.statically.io/gh/JonusNattapong/WarZ-ZeroHuman-Patches@main/patches/v1.1.1/Levels/Caliwood-ZH/LoadingScreen.dds",
       "sha256": "3a0ee89d7ca847671cfe869849219654f187f94012b5ebab0f5d79e5642713c9",
       "size": 1036928
     },
     {
       "path": "Levels/Colorado_V2/LoadingScreen.dds",
-      "url": "https://cdn.jsdelivr.net/gh/JonusNattapong/WarZ-ZeroHuman-Patches@main/patches/v1.1.1/Levels/Colorado_V2/LoadingScreen.dds",
+      "url": "https://cdn.statically.io/gh/JonusNattapong/WarZ-ZeroHuman-Patches@main/patches/v1.1.1/Levels/Colorado_V2/LoadingScreen.dds",
       "sha256": "3a0ee89d7ca847671cfe869849219654f187f94012b5ebab0f5d79e5642713c9",
       "size": 1036928
     },
     {
       "path": "Levels/Colorado-T1/LoadingScreen.dds",
-      "url": "https://cdn.jsdelivr.net/gh/JonusNattapong/WarZ-ZeroHuman-Patches@main/patches/v1.1.1/Levels/Colorado-T1/LoadingScreen.dds",
+      "url": "https://cdn.statically.io/gh/JonusNattapong/WarZ-ZeroHuman-Patches@main/patches/v1.1.1/Levels/Colorado-T1/LoadingScreen.dds",
       "sha256": "3a0ee89d7ca847671cfe869849219654f187f94012b5ebab0f5d79e5642713c9",
       "size": 1036928
     },
     {
       "path": "Levels/WorkInProgress/LoadingScreen.dds",
-      "url": "https://cdn.jsdelivr.net/gh/JonusNattapong/WarZ-ZeroHuman-Patches@main/patches/v1.1.1/Levels/WorkInProgress/LoadingScreen.dds",
+      "url": "https://cdn.statically.io/gh/JonusNattapong/WarZ-ZeroHuman-Patches@main/patches/v1.1.1/Levels/WorkInProgress/LoadingScreen.dds",
       "sha256": "3a0ee89d7ca847671cfe869849219654f187f94012b5ebab0f5d79e5642713c9",
       "size": 1036928
     },
     {
       "path": "Levels/WZ_FrontEndLighting/LoadingScreen.dds",
-      "url": "https://cdn.jsdelivr.net/gh/JonusNattapong/WarZ-ZeroHuman-Patches@main/patches/v1.1.1/Levels/WZ_FrontEndLighting/LoadingScreen.dds",
+      "url": "https://cdn.statically.io/gh/JonusNattapong/WarZ-ZeroHuman-Patches@main/patches/v1.1.1/Levels/WZ_FrontEndLighting/LoadingScreen.dds",
       "sha256": "3a0ee89d7ca847671cfe869849219654f187f94012b5ebab0f5d79e5642713c9",
       "size": 1036928
     }
   ]
 }
+
