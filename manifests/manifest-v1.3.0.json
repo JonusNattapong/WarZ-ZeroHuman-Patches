@@ -1,0 +1,14 @@
+﻿{
+    "version":  "1.3.0",
+    "generatedAt":  "2026-09-29T07:58:54Z",
+    "baseUrl":  "https://raw.githubusercontent.com/JonusNattapong/WarZ-ZeroHuman-Patches/main/patches/v1.3.0/",
+    "totalFiles":  1,
+    "files":  [
+                  {
+                      "path":  "Studio.exe",
+                      "url":  "https://raw.githubusercontent.com/JonusNattapong/WarZ-ZeroHuman-Patches/main/patches/v1.3.0/Studio.exe.bin",
+                      "sha256":  "7819c56a976ce67ddc688c931ad7efa65d9dc374b04f056cf3279bd5343c6742",
+                      "size":  21594624
+                  }
+              ]
+}
