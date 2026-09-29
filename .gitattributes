@@ -1,0 +1,2 @@
+# Patch artifacts are verified by SHA-256 in manifest.json: store and serve them byte for byte.
+patches/** binary
