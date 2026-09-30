@@ -1,0 +1,278 @@
+﻿{
+    "version":  "1.4.0",
+    "generatedAt":  "2026-09-30T02:00:50Z",
+    "baseUrl":  "https://raw.githubusercontent.com/JonusNattapong/WarZ-ZeroHuman-Patches/main/patches/v1.4.0/",
+    "totalFiles":  45,
+    "files":  [
+                  {
+                      "path":  "Studio.exe",
+                      "url":  "https://raw.githubusercontent.com/JonusNattapong/WarZ-ZeroHuman-Patches/main/patches/v1.4.0/Studio.exe.bin",
+                      "sha256":  "2f698b4827c756a5a4c34848cb086b976483c8393e10958443102f37d3f634ef",
+                      "size":  21623808
+                  },
+                  {
+                      "path":  "Data/OpenPvp/Room_19100.xml",
+                      "url":  "https://raw.githubusercontent.com/JonusNattapong/WarZ-ZeroHuman-Patches/main/patches/v1.4.0/Data/OpenPvp/Room_19100.xml",
+                      "sha256":  "1e6ad0add5fbc8e63fce677787b5d54e05208a1b969d2097e7a874ef1abeffcc",
+                      "size":  79465
+                  },
+                  {
+                      "path":  "Data/OpenPvp/Room_19200.xml",
+                      "url":  "https://raw.githubusercontent.com/JonusNattapong/WarZ-ZeroHuman-Patches/main/patches/v1.4.0/Data/OpenPvp/Room_19200.xml",
+                      "sha256":  "5922b1e9e847b7a2e78d44388ab18784b8315c38a362c66f94c8ce7f7bab5e84",
+                      "size":  3072
+                  },
+                  {
+                      "path":  "Data/Menu/FrontEnd.swf",
+                      "url":  "https://raw.githubusercontent.com/JonusNattapong/WarZ-ZeroHuman-Patches/main/patches/v1.4.0/Data/Menu/FrontEnd.swf",
+                      "sha256":  "d770d456069bcb7d020cae18055489e559b5ae22694d3a7060e15d98d1bc107d",
+                      "size":  29355918
+                  },
+                  {
+                      "path":  "Data/LangPack/english.lang",
+                      "url":  "https://raw.githubusercontent.com/JonusNattapong/WarZ-ZeroHuman-Patches/main/patches/v1.4.0/Data/LangPack/english.lang",
+                      "sha256":  "6408e5401e1538cfe5428829c8fe1070c57b4430aae88392c3079a2d0cdff51c",
+                      "size":  204064
+                  },
+                  {
+                      "path":  "Data/LangPack/french.lang",
+                      "url":  "https://raw.githubusercontent.com/JonusNattapong/WarZ-ZeroHuman-Patches/main/patches/v1.4.0/Data/LangPack/french.lang",
+                      "sha256":  "9ce7e38a56e4cb4e642f27394f281cc59cbf5c72475b48d5d1a0411117e4949f",
+                      "size":  217426
+                  },
+                  {
+                      "path":  "Data/LangPack/german.lang",
+                      "url":  "https://raw.githubusercontent.com/JonusNattapong/WarZ-ZeroHuman-Patches/main/patches/v1.4.0/Data/LangPack/german.lang",
+                      "sha256":  "ae5e4f3454bca7b4ef94869d73054a38b8f1fcfeb7dba237acd6421932920174",
+                      "size":  221632
+                  },
+                  {
+                      "path":  "Data/LangPack/italian.lang",
+                      "url":  "https://raw.githubusercontent.com/JonusNattapong/WarZ-ZeroHuman-Patches/main/patches/v1.4.0/Data/LangPack/italian.lang",
+                      "sha256":  "87bef82ee1b8fe8683d859e95d366de0000e31833bc6d98189b72ca014be7764",
+                      "size":  208062
+                  },
+                  {
+                      "path":  "Data/LangPack/russian.lang",
+                      "url":  "https://raw.githubusercontent.com/JonusNattapong/WarZ-ZeroHuman-Patches/main/patches/v1.4.0/Data/LangPack/russian.lang",
+                      "sha256":  "50a9d5147dd97720128300c2b426766482ea74b931ee25263537caf91a5cfa82",
+                      "size":  293187
+                  },
+                  {
+                      "path":  "Data/LangPack/spanish.lang",
+                      "url":  "https://raw.githubusercontent.com/JonusNattapong/WarZ-ZeroHuman-Patches/main/patches/v1.4.0/Data/LangPack/spanish.lang",
+                      "sha256":  "6c96759f1b6900e0da1b5b502bec629871b9310b4c622dd5782b492a04b525f5",
+                      "size":  218146
+                  },
+                  {
+                      "path":  "Data/BattleRoyale/LobbyCompound.xml",
+                      "url":  "https://raw.githubusercontent.com/JonusNattapong/WarZ-ZeroHuman-Patches/main/patches/v1.4.0/Data/BattleRoyale/LobbyCompound.xml",
+                      "sha256":  "7fcf46b673d5d85de3ebc394fe2f8bd9b102d35cdab67934a1d40b215a950b5f",
+                      "size":  43309
+                  },
+                  {
+                      "path":  "Data/Arena/blue.png",
+                      "url":  "https://raw.githubusercontent.com/JonusNattapong/WarZ-ZeroHuman-Patches/main/patches/v1.4.0/Data/Arena/blue.png",
+                      "sha256":  "16b262eed40a5f6ae196f72a32e0e9acb035749a6cdf0203dfac332acb88314b",
+                      "size":  7037
+                  },
+                  {
+                      "path":  "Data/Arena/red.png",
+                      "url":  "https://raw.githubusercontent.com/JonusNattapong/WarZ-ZeroHuman-Patches/main/patches/v1.4.0/Data/Arena/red.png",
+                      "sha256":  "ebfa78e863c45110804bad1f6a52702b8048c899969d0deb2df388d04737eb9e",
+                      "size":  6980
+                  },
+                  {
+                      "path":  "Data/Arena/respawn.png",
+                      "url":  "https://raw.githubusercontent.com/JonusNattapong/WarZ-ZeroHuman-Patches/main/patches/v1.4.0/Data/Arena/respawn.png",
+                      "sha256":  "14058c90796f869ad7893dd9cc782a5bd51fa7f0c05e26ab0e0e6931b15d4e65",
+                      "size":  7428
+                  },
+                  {
+                      "path":  "Data/Arena/solo.png",
+                      "url":  "https://raw.githubusercontent.com/JonusNattapong/WarZ-ZeroHuman-Patches/main/patches/v1.4.0/Data/Arena/solo.png",
+                      "sha256":  "a6662fa7811f9acd037d9183ade7a1d2d8cc667b929c63398c58588c5991c489",
+                      "size":  9773
+                  },
+                  {
+                      "path":  "Data/Arena/timer.png",
+                      "url":  "https://raw.githubusercontent.com/JonusNattapong/WarZ-ZeroHuman-Patches/main/patches/v1.4.0/Data/Arena/timer.png",
+                      "sha256":  "a7b2eb8c6ad04d97ce5b5091b7d5594c1b9b0bf83cc57098db35d020ffed3620",
+                      "size":  8416
+                  },
+                  {
+                      "path":  "Data/Arena/trophy.png",
+                      "url":  "https://raw.githubusercontent.com/JonusNattapong/WarZ-ZeroHuman-Patches/main/patches/v1.4.0/Data/Arena/trophy.png",
+                      "sha256":  "ceec8d4c7369b6aa6333fcf26c73a038c79dc1dfe99a629fde8449e31eb2d254",
+                      "size":  6334
+                  },
+                  {
+                      "path":  "Data/ObjectsDepot/ZH_BattleRoyale/br_airdrop_crate.scb",
+                      "url":  "https://raw.githubusercontent.com/JonusNattapong/WarZ-ZeroHuman-Patches/main/patches/v1.4.0/Data/ObjectsDepot/ZH_BattleRoyale/br_airdrop_crate.scb",
+                      "sha256":  "5e06f344f3c5600364ca08cfbf75fb99fe718a5506b4fdf7334aa1b67902c024",
+                      "size":  40499
+                  },
+                  {
+                      "path":  "Data/ObjectsDepot/ZH_BattleRoyale/br_airdrop_crate.sco",
+                      "url":  "https://raw.githubusercontent.com/JonusNattapong/WarZ-ZeroHuman-Patches/main/patches/v1.4.0/Data/ObjectsDepot/ZH_BattleRoyale/br_airdrop_crate.sco",
+                      "sha256":  "916809a404ae6a577716198fd5f8d22adb42e5db32e9496bc94070dd4eea4eac",
+                      "size":  108553
+                  },
+                  {
+                      "path":  "Data/ObjectsDepot/ZH_BattleRoyale/br_airdrop_parachute.scb",
+                      "url":  "https://raw.githubusercontent.com/JonusNattapong/WarZ-ZeroHuman-Patches/main/patches/v1.4.0/Data/ObjectsDepot/ZH_BattleRoyale/br_airdrop_parachute.scb",
+                      "sha256":  "2b8c34fdd4e00263f10f902f7290b5089bfd07c92d94325fd60088c375b001f6",
+                      "size":  39260
+                  },
+                  {
+                      "path":  "Data/ObjectsDepot/ZH_BattleRoyale/br_airdrop_parachute.sco",
+                      "url":  "https://raw.githubusercontent.com/JonusNattapong/WarZ-ZeroHuman-Patches/main/patches/v1.4.0/Data/ObjectsDepot/ZH_BattleRoyale/br_airdrop_parachute.sco",
+                      "sha256":  "8c118c04f2d083b052e4ca3b71d42ac650791ecf9ad70b02a6620c002fc3e9be",
+                      "size":  102956
+                  },
+                  {
+                      "path":  "Data/ObjectsDepot/ZH_BattleRoyale/Materials/BR_Airdrop_Metal.mat",
+                      "url":  "https://raw.githubusercontent.com/JonusNattapong/WarZ-ZeroHuman-Patches/main/patches/v1.4.0/Data/ObjectsDepot/ZH_BattleRoyale/Materials/BR_Airdrop_Metal.mat",
+                      "sha256":  "0ab5d9c5f2399bf15f28883781397cf71eb23ed4a14229187718bd918be53f8a",
+                      "size":  512
+                  },
+                  {
+                      "path":  "Data/ObjectsDepot/ZH_BattleRoyale/Materials/BR_Airdrop_Wood.mat",
+                      "url":  "https://raw.githubusercontent.com/JonusNattapong/WarZ-ZeroHuman-Patches/main/patches/v1.4.0/Data/ObjectsDepot/ZH_BattleRoyale/Materials/BR_Airdrop_Wood.mat",
+                      "sha256":  "6b0525d30189d5ee4dfefaeca899e265ba08bd57d24f4daa649e61fffdd8816e",
+                      "size":  509
+                  },
+                  {
+                      "path":  "Data/ObjectsDepot/ZH_BattleRoyale/Materials/BR_Parachute_Canopy.mat",
+                      "url":  "https://raw.githubusercontent.com/JonusNattapong/WarZ-ZeroHuman-Patches/main/patches/v1.4.0/Data/ObjectsDepot/ZH_BattleRoyale/Materials/BR_Parachute_Canopy.mat",
+                      "sha256":  "f3081f625c0ac81348e04fab508155a6fa65857f973a43347fe86dec46c8e18f",
+                      "size":  517
+                  },
+                  {
+                      "path":  "Data/ObjectsDepot/ZH_BattleRoyale/Materials/BR_Parachute_Line.mat",
+                      "url":  "https://raw.githubusercontent.com/JonusNattapong/WarZ-ZeroHuman-Patches/main/patches/v1.4.0/Data/ObjectsDepot/ZH_BattleRoyale/Materials/BR_Parachute_Line.mat",
+                      "sha256":  "b19b3bc511cd23e76dde292fa88126ef8e9fd2a84fb61e56a0b360cc1664e7f4",
+                      "size":  513
+                  },
+                  {
+                      "path":  "Data/ObjectsDepot/ZH_BattleRoyale/Textures/br_airdrop_metal_d.dds",
+                      "url":  "https://raw.githubusercontent.com/JonusNattapong/WarZ-ZeroHuman-Patches/main/patches/v1.4.0/Data/ObjectsDepot/ZH_BattleRoyale/Textures/br_airdrop_metal_d.dds",
+                      "sha256":  "badd7f9b7a6fc4ec44f9cf68a74327c12b52a914090a23fa4eebf4f39858fcac",
+                      "size":  87508
+                  },
+                  {
+                      "path":  "Data/ObjectsDepot/ZH_BattleRoyale/Textures/br_airdrop_wood_d.dds",
+                      "url":  "https://raw.githubusercontent.com/JonusNattapong/WarZ-ZeroHuman-Patches/main/patches/v1.4.0/Data/ObjectsDepot/ZH_BattleRoyale/Textures/br_airdrop_wood_d.dds",
+                      "sha256":  "458c6483239af25ecefa174bb6b77a3d34684f2b184a75dd83e74a47c023ca76",
+                      "size":  349652
+                  },
+                  {
+                      "path":  "Data/ObjectsDepot/ZH_BattleRoyale/Textures/br_flat_n.dds",
+                      "url":  "https://raw.githubusercontent.com/JonusNattapong/WarZ-ZeroHuman-Patches/main/patches/v1.4.0/Data/ObjectsDepot/ZH_BattleRoyale/Textures/br_flat_n.dds",
+                      "sha256":  "6de914abbac3ddf32fbdd872e7190e063979c2f98ae239fe8b7d04cd9a9bb073",
+                      "size":  1492
+                  },
+                  {
+                      "path":  "Data/ObjectsDepot/ZH_BattleRoyale/Textures/br_low_s.dds",
+                      "url":  "https://raw.githubusercontent.com/JonusNattapong/WarZ-ZeroHuman-Patches/main/patches/v1.4.0/Data/ObjectsDepot/ZH_BattleRoyale/Textures/br_low_s.dds",
+                      "sha256":  "618ad59f3ad7a655dd60e2eaa6f125255c8491e1515d38ed6f10d2e88f8f4b36",
+                      "size":  1492
+                  },
+                  {
+                      "path":  "Data/ObjectsDepot/ZH_BattleRoyale/Textures/br_parachute_canopy_d.dds",
+                      "url":  "https://raw.githubusercontent.com/JonusNattapong/WarZ-ZeroHuman-Patches/main/patches/v1.4.0/Data/ObjectsDepot/ZH_BattleRoyale/Textures/br_parachute_canopy_d.dds",
+                      "sha256":  "d8bc87e546da14ad8c0c9c0129c0c72f6a649f44312429df5dcbf960ac7a0121",
+                      "size":  349652
+                  },
+                  {
+                      "path":  "Data/ObjectsDepot/ZH_BattleRoyale/Textures/br_parachute_line_d.dds",
+                      "url":  "https://raw.githubusercontent.com/JonusNattapong/WarZ-ZeroHuman-Patches/main/patches/v1.4.0/Data/ObjectsDepot/ZH_BattleRoyale/Textures/br_parachute_line_d.dds",
+                      "sha256":  "070c7895a168b8cd2faea7ff4515442019933a9a367dfe88a0cda5092f29c631",
+                      "size":  1492
+                  },
+                  {
+                      "path":  "Levels/Caliwood-ZH/LoadingScreen.dds",
+                      "url":  "https://raw.githubusercontent.com/JonusNattapong/WarZ-ZeroHuman-Patches/main/patches/v1.4.0/Levels/Caliwood-ZH/LoadingScreen.dds",
+                      "sha256":  "78ad0478b950c12a3420e92fa0396be13f469023a2812bad7aa93f0e47123b80",
+                      "size":  2359424
+                  },
+                  {
+                      "path":  "Levels/Colorado_V2/LoadingScreen.dds",
+                      "url":  "https://raw.githubusercontent.com/JonusNattapong/WarZ-ZeroHuman-Patches/main/patches/v1.4.0/Levels/Colorado_V2/LoadingScreen.dds",
+                      "sha256":  "78ad0478b950c12a3420e92fa0396be13f469023a2812bad7aa93f0e47123b80",
+                      "size":  2359424
+                  },
+                  {
+                      "path":  "Levels/Colorado-T1/LoadingScreen.dds",
+                      "url":  "https://raw.githubusercontent.com/JonusNattapong/WarZ-ZeroHuman-Patches/main/patches/v1.4.0/Levels/Colorado-T1/LoadingScreen.dds",
+                      "sha256":  "78ad0478b950c12a3420e92fa0396be13f469023a2812bad7aa93f0e47123b80",
+                      "size":  2359424
+                  },
+                  {
+                      "path":  "Levels/WorkInProgress/LoadingScreen.dds",
+                      "url":  "https://raw.githubusercontent.com/JonusNattapong/WarZ-ZeroHuman-Patches/main/patches/v1.4.0/Levels/WorkInProgress/LoadingScreen.dds",
+                      "sha256":  "78ad0478b950c12a3420e92fa0396be13f469023a2812bad7aa93f0e47123b80",
+                      "size":  2359424
+                  },
+                  {
+                      "path":  "Levels/WZ_FrontEndLighting/LoadingScreen.dds",
+                      "url":  "https://raw.githubusercontent.com/JonusNattapong/WarZ-ZeroHuman-Patches/main/patches/v1.4.0/Levels/WZ_FrontEndLighting/LoadingScreen.dds",
+                      "sha256":  "78ad0478b950c12a3420e92fa0396be13f469023a2812bad7aa93f0e47123b80",
+                      "size":  2359424
+                  },
+                  {
+                      "path":  "Data/Weapons/itemsDB.xml",
+                      "url":  "https://raw.githubusercontent.com/JonusNattapong/WarZ-ZeroHuman-Patches/main/patches/v1.4.0/Data/Weapons/itemsDB.xml",
+                      "sha256":  "b571b2c05b7b735388fa55da3f56652b223558996d4e6bde70b69c1121340ec3",
+                      "size":  307095
+                  },
+                  {
+                      "path":  "Data/Weapons/StoreIcons/Case_Scavenger.dds",
+                      "url":  "https://raw.githubusercontent.com/JonusNattapong/WarZ-ZeroHuman-Patches/main/patches/v1.4.0/Data/Weapons/StoreIcons/Case_Scavenger.dds",
+                      "sha256":  "f142c8cee1a3056d12b203c4dd6206ab953913d9be27cae14a1fdad48893281d",
+                      "size":  159872
+                  },
+                  {
+                      "path":  "Data/Weapons/StoreIcons/Case_FieldOps.dds",
+                      "url":  "https://raw.githubusercontent.com/JonusNattapong/WarZ-ZeroHuman-Patches/main/patches/v1.4.0/Data/Weapons/StoreIcons/Case_FieldOps.dds",
+                      "sha256":  "733636392e7fd3fd70a3d003480183c2484a9630d8b4a9e90b2483d8e9d12631",
+                      "size":  159872
+                  },
+                  {
+                      "path":  "Data/Weapons/StoreIcons/Case_BlackSite.dds",
+                      "url":  "https://raw.githubusercontent.com/JonusNattapong/WarZ-ZeroHuman-Patches/main/patches/v1.4.0/Data/Weapons/StoreIcons/Case_BlackSite.dds",
+                      "sha256":  "1c08d5869d132196d65502088f0c7015f3142a0a7680521c77347dec2a8aa02d",
+                      "size":  159872
+                  },
+                  {
+                      "path":  "Data/Weapons/StoreIcons/Case_ZeroHour.dds",
+                      "url":  "https://raw.githubusercontent.com/JonusNattapong/WarZ-ZeroHuman-Patches/main/patches/v1.4.0/Data/Weapons/StoreIcons/Case_ZeroHour.dds",
+                      "sha256":  "8a39e883be83fbdf692889cfd55e8fabf0df75daeb1cd804e9c5be003864d48e",
+                      "size":  159872
+                  },
+                  {
+                      "path":  "Data/Cases/reel_band.png",
+                      "url":  "https://raw.githubusercontent.com/JonusNattapong/WarZ-ZeroHuman-Patches/main/patches/v1.4.0/Data/Cases/reel_band.png",
+                      "sha256":  "7392d9e4acd3697fd4e6b8c98fa8f78c12853d5fdb09282a898b620a69b7f135",
+                      "size":  1110152
+                  },
+                  {
+                      "path":  "Data/Cases/card_normal.png",
+                      "url":  "https://raw.githubusercontent.com/JonusNattapong/WarZ-ZeroHuman-Patches/main/patches/v1.4.0/Data/Cases/card_normal.png",
+                      "sha256":  "161bb2e938d22ec5e626c9a971b0e41c8788b095ff054bfca606e4afd85c393c",
+                      "size":  132656
+                  },
+                  {
+                      "path":  "Data/Cases/card_selected.png",
+                      "url":  "https://raw.githubusercontent.com/JonusNattapong/WarZ-ZeroHuman-Patches/main/patches/v1.4.0/Data/Cases/card_selected.png",
+                      "sha256":  "5fe8a0251403bdf1e89b1f23a44d065f57ca42a66376c3fdb27519c92170bc07",
+                      "size":  148698
+                  },
+                  {
+                      "path":  "Data/Menu/font_en.swf",
+                      "url":  "https://raw.githubusercontent.com/JonusNattapong/WarZ-ZeroHuman-Patches/main/patches/v1.4.0/Data/Menu/font_en.swf",
+                      "sha256":  "17dafa4dcb731b61b859708d2f0e5f468a7ed58d625a590301d39d34039cbb2f",
+                      "size":  275655
+                  }
+              ]
+}

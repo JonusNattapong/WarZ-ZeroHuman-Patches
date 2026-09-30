@@ -1,0 +1,25 @@
+[MaterialBegin]
+Name= BR_Parachute_Line
+Flags= _unused_
+SpecularPower= 0.05
+Specular1Power= 0.05
+ReflectionPower= 0.05
+DoubleSided= 0
+Color24= 255 255 255
+DetailScale= 10.00
+DetailAmmount= 0.00
+displace= 0
+displ_val= 0.100
+ForceTransparent= 0
+AlphaTransparent= 0
+Camouflage= 0
+lowQSelfIllum= 0.00
+lowQMetallness= 0.00
+SelfIllumMultiplier=0.0000
+matID= 0
+Type= Wood
+Texture= br_parachute_line_d.dds
+NormalMap= br_flat_n.dds
+SpecularMap= br_low_s.dds
+SpecPowMap= br_low_s.dds
+[MaterialEnd]
