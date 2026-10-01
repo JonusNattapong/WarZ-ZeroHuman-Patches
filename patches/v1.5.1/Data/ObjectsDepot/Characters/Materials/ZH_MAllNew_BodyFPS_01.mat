@@ -1,0 +1,23 @@
+[MaterialBegin]
+Name= ZH_MAllNew_BodyFPS_01
+Flags= _unused_
+SpecularPower= 0.19
+Specular1Power= 1.00
+ReflectionPower= 0.15
+DoubleSided= 0
+Color24= 255 255 255
+DetailScale= 10.00
+DetailAmmount= 0.30
+displace= 0
+displ_val= 0.100
+ForceTransparent= 0
+AlphaTransparent= 0
+Camouflage= 0
+lowQSelfIllum= 0.00
+lowQMetallness= 0.00
+SelfIllumMultiplier=0.0000
+Texture= ZH_MAllNew_BodyFPS_01_D.dds
+NormalMap= ZH_MAllNew_BodyFPS_01_N.dds
+SpecularMap= ZH_MAllNew_BodyFPS_01_S.dds
+SpecPowMap= ZH_MAllNew_BodyFPS_01_S.dds
+[MaterialEnd]
