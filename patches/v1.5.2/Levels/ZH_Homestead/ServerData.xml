@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<server_objects>
+	<object className="obj_PlayerSpawnPoint" fileName="playerspawn">
+		<position x="254.667" y="110.364" z="187.661" />
+		<spawn radius="2.0" />
+	</object>
+	<object className="obj_PlayerSpawnPoint" fileName="playerspawn">
+		<position x="248.956" y="110.115" z="123.514" />
+		<spawn radius="2.0" />
+	</object>
+	<object className="obj_PlayerSpawnPoint" fileName="playerspawn">
+		<position x="191.108" y="110.435" z="140.351" />
+		<spawn radius="2.0" />
+	</object>
+	<object className="obj_PlayerSpawnPoint" fileName="playerspawn">
+		<position x="132.783" y="110.500" z="144.721" />
+		<spawn radius="2.0" />
+	</object>
+	<object className="obj_PlayerSpawnPoint" fileName="playerspawn">
+		<position x="205.605" y="110.424" z="290.901" />
+		<spawn radius="2.0" />
+	</object>
+	<object className="obj_PlayerSpawnPoint" fileName="playerspawn">
+		<position x="91.723" y="110.544" z="147.612" />
+		<spawn radius="2.0" />
+	</object>
+	<object className="obj_PlayerSpawnPoint" fileName="playerspawn">
+		<position x="201.113" y="110.554" z="154.974" />
+		<spawn radius="2.0" />
+	</object>
+	<object className="obj_PlayerSpawnPoint" fileName="playerspawn">
+		<position x="142.348" y="110.435" z="99.468" />
+		<spawn radius="2.0" />
+	</object>
+</server_objects>
